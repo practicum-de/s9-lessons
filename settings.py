@@ -1,5 +1,5 @@
 TESTS_HOST = '51.250.8.141'
-TESTS_HOST_2 = 'https://postgres-check-service.sprint9.tgcloudenv.ru'
+TESTS_HOST_2 = 'https://postgres-check-service.de.education-services.ru'
 
 student = '*',  # ваш_логин
 pg_settings = {
